@@ -1,5 +1,5 @@
 +++
-title = "Wedding"
+title = "tying.us"
 outputs = ["Reveal"]
 +++
 
